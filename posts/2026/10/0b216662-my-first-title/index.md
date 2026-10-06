@@ -8,10 +8,7 @@ tags:
 ---
 Hey, I'm **trying to write** my first post here.
 
-Some formatting:
-1. One
-2. Two
-3. Three
+VEL KEICIAME
 
 - One
 - Two
